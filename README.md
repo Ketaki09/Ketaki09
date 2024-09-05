@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Python Automation <br>Looking for opportunities to collaborate on any cool Python Projects <br>Fun fact - I can touch my nose with my tongue. <br>lol - I’m always cheeky. 
+I’m currently working on Python Automation <br>Looking for opportunities to collaborate on any cool Python Projects <br>Fun fact - I can touch my nose with my tongue. <br>
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,7 @@ I’m currently working on Python Automation <br>Looking for opportunities to co
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketaki09&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
+![]Harwork is useless for those who dont believe in themselves
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
