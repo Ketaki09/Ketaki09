@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Python Automation <br>Looking for opportunities to collaborate on any cool Python Projects <br>Fun fact - I can touch my nose with my tongue. <br>
+I’m currently working on Python Automation <br>Looking for opportunities to collaborate on any cool Python Projects
 Harwork is useless for those who dont believe in themselves 
 
 # 💻 Tech Stack:
